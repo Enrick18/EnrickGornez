@@ -22,7 +22,9 @@
       </article>
     </main>
     <footer>
-  <p>Posted by: Hege Refsnes</p>
+      <br>
+      <br>
+  <p>Posted by: John Enrick Gornez</p>
   <p>Contact information: <a href="mailto:johngorns@gmail.com">someone@example.com</a>.</p>
     </footer>
   </body>
