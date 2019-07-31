@@ -46,7 +46,7 @@
     <br>
     <footer>
   <p>Posted by: John Enrick Gornez</p>
-  <p>Contact information: <a href="mailto:johngorns@gmail.com">someone@example.com</a>.</p>
+  <p>Contact information: <a href="mailto:johngorns@gmail.com">johngorns@gmail.com</a>.</p>
     </footer>
   </body>
   </html>
