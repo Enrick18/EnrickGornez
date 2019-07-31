@@ -4,7 +4,9 @@
     <title>Enrick</title>
   </head>
   <body>
-    <h1>Enrick's Profile</h1>
+    <h1 align="center">Enrick's Profile</h1>
+    <br>
+    <br>
     <section>
       <h2><b>Name:</b>John Enrick Gornez</h2>
       <p>Student</p>
@@ -22,6 +24,9 @@
       </article>
     </main>
     <main>
+      <br>
+      <br>
+      <br>
         <h2>Educational Background</h2>
         <p>Elementary, Junior and Senior Highschool</p>
        <article>
