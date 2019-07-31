@@ -23,7 +23,7 @@
     </main>
     <main>
         <h2>Educational Background</h2>
-        <p>Elementary and Junior and Senior Highschool</p>
+        <p>Elementary, Junior and Senior Highschool</p>
        <article>
          <h3>Elementary</h3>
          <p>Graduated at Gintilan Central School</p>
